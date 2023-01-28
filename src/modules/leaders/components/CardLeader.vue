@@ -38,9 +38,5 @@
         <p>72</p>
       </v-col>
     </v-row>
-
-    <v-btn variant="text">
-      Ver
-    </v-btn>
   </v-card>
 </template>
